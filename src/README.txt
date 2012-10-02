@@ -1,0 +1,1 @@
+Must run MCDocs prior to running BMCDocs.  Note, this uses the folder and files within MCDocs.
